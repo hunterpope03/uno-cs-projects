@@ -1,5 +1,5 @@
 # Intro-to-CS-II-Final-Project
-GUI that overviews basic searching and sorting algorithms
+GUI application that overviews basic searching and sorting algorithms.
 
 NOTE: To download the actual application, visit the "Releases" page of this repository. Then, download and extract the zip file. Finally, double-click the main.py file to run the application. 
 
